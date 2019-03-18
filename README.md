@@ -8,7 +8,7 @@
 ### Cloudiness (%) vs. Latitude
 ![GitHub Logo](https://github.com/obaid8712/World-Climate-Project/blob/master/Climate_code/Cloud.png)
 
-###Wind Speed (mph) vs. Latitude
+### Wind Speed (mph) vs. Latitude
 ![GitHub Logo](https://github.com/obaid8712/World-Climate-Project/blob/master/Climate_code/Wind.png)
 
 ### Analysis
