@@ -2,7 +2,7 @@
 ## The scatter plot are apended below for analysis:
 
 ### Temperature (F) vs. Latitude
-![GitHub Logo](https://github.com/obaid8712/World-Climate-Project/blob/master/Climate_code/image/Cloud.png)
+![GitHub Logo](https://github.com/obaid8712/World-Climate-Project/blob/master/Climate_code/image/MaxTemp.png)
 
 ### Humidity (%) vs. Latitude
 ![GitHub Logo](https://github.com/obaid8712/World-Climate-Project/blob/master/Climate_code/image/Humidity.png)
